@@ -1,0 +1,27 @@
+[
+  {
+    "id": "persoenlich",
+    "label": "PERSÖNLICHES",
+    "commands": [
+      { "id": "gang", "label": "/gang", "key": "" },
+      { "id": "self", "label": "/self", "key": "" },
+      { "id": "report", "label": "/report", "key": "" }
+    ]
+  },
+  {
+    "id": "fraktion",
+    "label": "FRAKTION",
+    "commands": [
+      { "id": "fmenu", "label": "/fmenu", "key": "" },
+      { "id": "fduty", "label": "/fduty", "key": "" }
+    ]
+  },
+  {
+    "id": "fahrzeug",
+    "label": "FAHRZEUG",
+    "commands": [
+      { "id": "park", "label": "/park", "key": "" },
+      { "id": "tow", "label": "/tow", "key": "" }
+    ]
+  }
+]
